@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34232'
     url: http://www.gutenberg.org/2009/agents/34232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29893#History-of-ReligionA-Sketch-of-Primitive-Religious-Beliefs-and-Practices-and-of-the-Origin-an_
 gutenberg_issued: '2009-09-02'
 gutenberg_type: Text
 identifiers:
